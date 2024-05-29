@@ -5,7 +5,7 @@ yapıştırılır.
 
 trx dosyasından html oluşturmak için ise;
 https://github.com/NivNavick/trxer/tree/master programı lokale indir,build et. sonra da terminal açıp ;
-TrxerConsole.exe C:\Users\ORD\source\repos\Proje\TestResults\ORD_LAPTOP-LMS7D99M_2023-10-25_11_47_17.trx
+TrxerConsole.exe C:\Users\ORD\source\repos\Proje\TestResults\PCNAME_2023-10-25_11_47_17.trx
 
 şeklinde komutu çalıştır sonuç olarak html üretecektir.
 
