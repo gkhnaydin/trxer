@@ -1,3 +1,14 @@
+Test dosyası oluşturmak için vs de powershell açılıp ;
+> vstest.console.exe Proje.dll /logger:trx
+
+yapıştırılır.
+
+trx dosyasından html oluşturmak için ise;
+https://github.com/NivNavick/trxer/tree/master programı lokale indir,build et. sonra da terminal açıp ;
+TrxerConsole.exe C:\Users\ORD\source\repos\Proje\TestResults\ORD_LAPTOP-LMS7D99M_2023-10-25_11_47_17.trx
+
+şeklinde komutu çalıştır sonuç olarak html üretecektir.
+
 
 ![11910876](https://cloud.githubusercontent.com/assets/11910876/7189304/c483f1b0-e486-11e4-9a95-44a1243fea5d.png)
 <h3>Transforms trx file into html</h3><br/>
